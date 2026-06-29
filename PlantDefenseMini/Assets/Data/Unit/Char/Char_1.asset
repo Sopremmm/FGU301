@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3544dde96e5f02a459729732cc1cfa69, type: 3}
+  m_Name: Char_1
+  m_EditorClassIdentifier: 
+  unitName: Char_1
+  description: 
+  icon: {fileID: 0}
+  renderTexture: {fileID: 8400000, guid: 390ebb32b14e7704c880560122d88fae, type: 2}
+  prefab: {fileID: 1785442938906961776, guid: 9b2388f7a3ef666418ca4c7b45d3b892, type: 3}
+  maxHealth: 200
+  damage: 20
+  attackRange: 1
+  attackCooldown: 1
+  attackType: 0
+  movementType: 0
+  projectilePrefab: {fileID: 0}
+  cost: 75

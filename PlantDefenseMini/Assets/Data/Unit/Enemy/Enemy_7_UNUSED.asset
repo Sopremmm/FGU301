@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e32b64ecf8327f488aceb7721337d23, type: 3}
+  m_Name: Enemy_7_UNUSED
+  m_EditorClassIdentifier: 
+  unitName: Enemy_7
+  description: 
+  icon: {fileID: 0}
+  prefab: {fileID: 3414775754248093709, guid: 16506ea89eb93ce479ce56e8d4d41328, type: 3}
+  maxHealth: 100
+  damage: 10
+  attackRange: 1
+  attackCooldown: 1
+  attackType: 0
+  movementType: 1
+  projectilePrefab: {fileID: 0}
+  moveSpeed: 1
